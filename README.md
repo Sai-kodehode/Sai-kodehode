@@ -1,5 +1,5 @@
 <p>
-  <img src="https://icons8.com/icon/bzf0DqjXFHIW/react" width="100" />
+  <img src="C:\Users\Kursdeltaker\Desktop\images\react.jpg" width="100" />
       
 </p>
 
