@@ -1,6 +1,5 @@
 <p>
- <img src="![image](https://github.com/Sai-kodehode/Sai-kodehode/assets/152984464/8d87214e-3fa3-42f3-89ec-9760467f31a4)
-" width="100" />
+  <img src="https://icons8.com/icon/bzf0DqjXFHIW/react" width="100" />
       
 </p>
 
